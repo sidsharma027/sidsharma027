@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sidsharma027
+- 👋 Hi, I’m Siddhant Sharma
 - 👀 I’m interested in WebDev, AndriodDev and ML
 - 🌱 I’m currently learning ReactJs
 - 💞️ I’m looking to collaborate on lastest tech projects
