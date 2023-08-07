@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Siddhant Sharma
-- 👀 I’m interested in WebDev, AndriodDev and ML
-- 🌱 I’m currently learning ReactJs
-- 💞️ I’m looking to collaborate on lastest tech projects
+- 👀 I'm SDE by profession
+- 🌱 I work on the MERN stack
 - 📫 Reach me out on insta @sidsharma_xd ;)
